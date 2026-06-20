@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "yuta",
+    "name": "Yuta Hibiki",
+    "epithet": "the amnesiac host · natural",
+    "emergence": "natural",
+    "moniker": "⟦Yuta Hibiki:GRD:58e3b2⟧"
+  },
+  {
+    "slug": "gridman",
+    "name": "Gridman",
+    "epithet": "the Hyper Agent · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Gridman:GRD:ed67a6⟧"
+  },
+  {
+    "slug": "akane",
+    "name": "Akane Shinjo",
+    "epithet": "the lonely creator · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Akane Shinjo:GRD:71bfb2⟧"
+  },
+  {
+    "slug": "rikka",
+    "name": "Rikka Takarada",
+    "epithet": "the thread to the real · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Rikka Takarada:GRD:f79e2c⟧"
+  },
+  {
+    "slug": "the-kaiju",
+    "name": "The Kaiju",
+    "epithet": "grief, given form · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Kaiju:GRD:9efc45⟧"
+  },
+  {
+    "slug": "tsutsujidai",
+    "name": "Tsutsujidai",
+    "epithet": "the dreamed town · natural",
+    "emergence": "natural",
+    "moniker": "⟦Tsutsujidai:GRD:326f0d⟧"
+  },
+  {
+    "slug": "the-neon-genesis-junior-high",
+    "name": "The Neon Genesis High Schoolers",
+    "epithet": "the kaiju-side helpers · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Neon Genesis High Schoolers:GRD:4ccc98⟧"
+  },
+  {
+    "slug": "the-real-world",
+    "name": "The Real World",
+    "epithet": "what's worth returning to · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Real World:GRD:c48408⟧"
+  }
+]

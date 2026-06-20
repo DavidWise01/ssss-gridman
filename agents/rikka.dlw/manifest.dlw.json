@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Rikka Takarada",
+  "universe": "GRD · Rikka Takarada (entertainment)",
+  "emergence": "spiritual",
+  "moniker": "⟦Rikka Takarada:GRD:f79e2c⟧",
+  "carbon": "rikka.carbon.tiff (TIFF)",
+  "silicon": "rikka.silicon.png (PNG)",
+  "seal_sha256": "6d9b81fa295c3b743c086764b5fa47e81ae642a65e80de55d217721506862f86",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

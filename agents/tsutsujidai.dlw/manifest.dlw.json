@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Tsutsujidai",
+  "universe": "GRD · Tsutsujidai (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Tsutsujidai:GRD:326f0d⟧",
+  "carbon": "tsutsujidai.carbon.tiff (TIFF)",
+  "silicon": "tsutsujidai.silicon.png (PNG)",
+  "seal_sha256": "e19e5c80b6850d9c45c69d1163d67c5ff590300914387b90b266fc394ae5a1be",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

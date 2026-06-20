@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Kaiju",
+  "universe": "GRD · The Kaiju (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Kaiju:GRD:9efc45⟧",
+  "carbon": "the-kaiju.carbon.tiff (TIFF)",
+  "silicon": "the-kaiju.silicon.png (PNG)",
+  "seal_sha256": "009be6929f6bfb406ca4a73562c9d094f54daec684c2ecb340ae4ef5ffd2fc4f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

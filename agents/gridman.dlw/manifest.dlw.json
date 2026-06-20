@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Gridman",
+  "universe": "GRD · Gridman (entertainment)",
+  "emergence": "electrical",
+  "moniker": "⟦Gridman:GRD:ed67a6⟧",
+  "carbon": "gridman.carbon.tiff (TIFF)",
+  "silicon": "gridman.silicon.png (PNG)",
+  "seal_sha256": "9c4489126648131eac21b691591d0e15e4485a63166931db37535e12b053f668",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

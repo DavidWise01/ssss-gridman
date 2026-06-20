@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Real World",
+  "universe": "GRD · The Real World (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Real World:GRD:c48408⟧",
+  "carbon": "the-real-world.carbon.tiff (TIFF)",
+  "silicon": "the-real-world.silicon.png (PNG)",
+  "seal_sha256": "c4fdd4bd8a6fa685cef9b8956f8a0134628228568b657eeb7b2ed99926911eca",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
