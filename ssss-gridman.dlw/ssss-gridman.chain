@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 807
 slug  : ssss-gridman
-seal  : 844fd5720abb26c7859a8d7c04a003ab5341706304f455ada5f07a7e46d14790
-prev  : b7da0be521ff96c6ab77de34bbeb8fc405fbe388bfe349ffaab5f17db18b9fff
-link  : 0d8d64b0011024963f3bb6f12dd18976388778524e4dce3243471e146354a924
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 912bcdac324b7cb9b90c83bb78ae31d0d3e7ae197a848393c6791e70e0a1c1e5
+prev  : 3c5ecc4f48677b77332fdce33271b689c0c40a5a1ebb799d54c7fe379e620c54
+link  : bdd1f94803a46d723f99458c336e2df7ca57952e2732e57e6334218378dfa122
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
